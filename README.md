@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="center">
-          Live Project : https://ask-quiz.netlify.app/
+          Live Project : https://baishali-quiz-hunt.netlify.app/
 </h3>
 <br />
 
@@ -75,12 +75,12 @@ npm run start
 
  To start contributing, follow the below guidelines:
 
-**1.** Fork [this](https://github.com/imhardikdesai/Quiz-App) repository.
+**1.** Fork repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/imhardikdesai/Quiz-App.git
+
 ```
 
 **3.** Navigate to the project directory :file_folder: .
